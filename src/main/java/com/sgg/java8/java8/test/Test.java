@@ -5,5 +5,6 @@ public class Test {
         System.out.println("git");
         System.out.println("git22");
         System.out.println("hot-fix");
+        System.out.println("push-git");
     }
 }
